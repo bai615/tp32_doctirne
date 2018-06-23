@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>Created Product with ID 1
